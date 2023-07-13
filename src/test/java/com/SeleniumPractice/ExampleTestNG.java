@@ -9,6 +9,9 @@ import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.Test;
 
 public class ExampleTestNG {
+
+
+	// This is the test message
 	
 	WebDriver driver;
 
